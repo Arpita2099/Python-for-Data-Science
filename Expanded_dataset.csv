@@ -1,0 +1,30 @@
+,Gender,EthnicGroup,ParentEduc,LunchType,TestPrep,ParentMaritalStatus,PracticeSport,IsFirstChild,NrSiblings,MathScore,ReadingScore,WritingScore
+0,female,,bachelor's degree,standard,none,married,regularly,yes,3,71,71,74
+1,female,group C,some college,standard,,married,sometimes,yes,0,69,90,88
+2,female,group B,master's degree,standard,none,single,sometimes,yes,4,87,93,91
+3,male,group A,associate's degree,free/reduced,none,married,never,no,1,45,56,42
+4,male,group C,some college,standard,none,married,sometimes,yes,0,76,78,75
+5,female,group B,associate's degree,standard,none,married,regularly,yes,1,73,84,79
+6,female,group B,some college,standard,completed,widowed,never,no,1,85,93,89
+7,male,group B,some college,free/reduced,none,married,sometimes,yes,1,41,43,39
+8,male,group D,high school,free/reduced,completed,single,sometimes,no,3,65,64,68
+9,female,group B,high school,free/reduced,none,married,regularly,yes,,37,59,50
+10,male,group C,associate's degree,standard,none,,sometimes,yes,1,58,54,52
+11,male,group D,associate's degree,standard,none,divorced,sometimes,yes,1,40,52,43
+12,female,group B,high school,standard,none,married,regularly,no,1,66,82,74
+13,male,group A,some college,standard,completed,single,sometimes,yes,1,80,73,71
+14,female,group A,master's degree,standard,none,divorced,sometimes,yes,2,48,53,58
+15,female,group C,some high school,standard,none,married,sometimes,yes,0,69,75,78
+16,male,group C,high school,standard,,married,sometimes,yes,0,88,89,86
+17,female,group B,some high school,free/reduced,none,divorced,sometimes,yes,1,18,32,28
+18,male,group C,master's degree,free/reduced,completed,single,sometimes,no,1,46,42,47
+19,female,group C,associate's degree,free/reduced,none,married,never,yes,3,50,56,58
+20,male,group D,high school,standard,none,married,sometimes,yes,5,66,69,63
+21,female,group B,some college,free/reduced,completed,married,sometimes,no,2,65,75,70
+22,male,group D,,standard,none,married,never,yes,5,42,53,51
+23,female,group C,some high school,standard,none,divorced,never,no,3,66,71,71
+24,male,group D,,free/reduced,completed,married,sometimes,yes,2,74,71,80
+25,male,group A,master's degree,free/reduced,none,married,regularly,yes,1,75,76,76
+26,male,group B,some college,standard,none,married,sometimes,yes,5,66,53,53
+27,female,group C,bachelor's degree,standard,none,married,sometimes,yes,4,69,70,76
+28,male,group C,high school,standard,none,married,sometimes,no,1,70,70,65
